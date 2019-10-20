@@ -6,9 +6,9 @@ navbar:
     - text: "Research"
       href: research.html
     - icon: fa-envelope fa-lg
-      href: mailto:<you@youremail.com>
+      href: mailto:wez97@pitt.edu
     - icon: fa-github fa-lg
-      href: http://github.com/<YOUR_GH_NAME>/
+      href: http://github.com/weiiizong/
 output:
   html_document:
       css: style.css
