@@ -1,0 +1,21 @@
+---
+title: "Research"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+### On-Going Methodology Projects
+* Multivariate outcome guided subtyping.  
+* Robust Order-based Machine Learning.  
+
+
+### On-Going Collaboration Projects
+* Exploring circadian rhythms of gene expression in the human nucleus accumbens between bi-polar, schizophrenia and control subjects.
+* Investigating the intestinal microbiome data of people with high risks of developing multiple sclerosis.
+
+
+### Publications
+* Seney ML, Cahill K, Enwright JF, Logan RW, Huo Z, **Zong W**, Tseng G, McClung CA. Diurnal rhythms in gene expression in the prefrontal cortex in schizophrenia. Nature communications. 2019 Aug 9;10(1):1-1.
+

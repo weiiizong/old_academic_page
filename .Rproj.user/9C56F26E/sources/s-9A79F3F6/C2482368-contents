@@ -11,7 +11,7 @@
 
 
 
-<title>Wei Zong</title>
+<title>Holy cow!</title>
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -70,7 +70,7 @@ h6 {
 }
 </style>
 
-<link rel="stylesheet" href="style.css" type="text/css" />
+<link rel="stylesheet" href="bootstrap.css" type="text/css" />
 
 </head>
 
@@ -277,7 +277,7 @@ $(document).ready(function () {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">Wei Zong</a>
+      <a class="navbar-brand" href="index.html">Home</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
@@ -285,7 +285,7 @@ $(document).ready(function () {
       </ul>
       <ul class="nav navbar-nav navbar-right">
         <li>
-  <a href="research.html">Research</a>
+  <a href="about.html">About</a>
 </li>
 <li>
   <a href="mailto:&lt;you@youremail.com&gt;">
@@ -308,28 +308,14 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Wei Zong</h1>
+<h1 class="title toc-ignore">Holy cow!</h1>
 
 </div>
 
 
-<style>
-.column-left{
-  float: left;
-  width: 45%;
-  text-align: center;
-}
-.column-right{
-  float: right;
-  width: 50%;
-  text-align: justify;
-}
-</style>
-<div class="column-left">
-<p><img src="pictures/Wei.jpg" width="80%" style="display: block; margin: auto auto auto 0;" /></p>
-</div>
-<div class="column-right">
-<p>I am a second year PhD student at <a href="http://tsenglab.biostat.pitt.edu/index.htm">George Tseng’s Lab</a>, Department of Biostatistics,University of Pittsburgh supervised by <a href="http://www.pitt.edu/~ctseng/">Dr. George C. Tseng</a>. I am also a graduate student researcher under the guidance of <a href="http://www.mcclung.pitt.edu/">Dr. Colleen McClung</a> at the Department of Psychiatry, University of Pittsburgh.</p>
+<div id="i-have-a-webpage" class="section level3">
+<h3>I have a webpage!</h3>
+<p>And I can put all kinds of stuff on it!</p>
 </div>
 
 
