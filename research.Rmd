@@ -6,16 +6,27 @@ output:
     toc_float: true
 ---
 
-### On-Going Methodology Projects
+## On-Going Methodology Projects
 * Multivariate outcome guided subtyping.  
 * Robust Order-based Machine Learning.  
 
 
-### On-Going Collaboration Projects
+## On-Going Collaboration Projects
 * Exploring circadian rhythms of gene expression in the human nucleus accumbens between bi-polar, schizophrenia and control subjects.
 * Investigating the intestinal microbiome data of people with high risks of developing multiple sclerosis.
 
 
-### Publications
+## Publications
 * Seney ML, Cahill K, Enwright JF, Logan RW, Huo Z, **Zong W**, Tseng G, McClung CA. Diurnal rhythms in gene expression in the prefrontal cortex in schizophrenia. Nature communications. 2019 Aug 9;10(1):1-1.
 
+
+## Education
+* MASt in Mathematical Statistics, University of Cambridge (2016-2017) 
+* BSc in Actuarial Science, Heriot-Watt University (2014-2016)
+* BEc in Bilinguial Actuarial Science, Southwestern University of Finance and Economics (2012-2014)
+
+## Selected Courses Taken
+* Modern Statistical Methods, University of Cambridge
+* Bayesian Modelling and Computation, University of Cambridge
+* Applied Statistics (Generalized linear models, nonparamatric regression, mixed effects models, spartial statistics), University of Cambridge
+* Stochastic Process, Heriot-Watt University
