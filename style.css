@@ -79,6 +79,7 @@ body {
 hr {
   font-family: sans-serif;
   font-style: normal;
+  -webkit-box-orient: horizontal;
   -webkit-box-sizing: content-box;
           box-sizing: content-box;
   height: 0;
@@ -86,6 +87,7 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  -webkit-box-orient: horizontal;
   font-family: sans-serif;
   font-style: normal;
   margin-top: 0;
@@ -4440,6 +4442,7 @@ input[type="button"].btn-block {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  -webkit-box-orient: horizontal;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -4456,6 +4459,7 @@ input[type="button"].btn-block {
   display: flex;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
+  -webkit-box-orient: horizontal;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -4465,11 +4469,13 @@ input[type="button"].btn-block {
 }
 
 .navbar-brand {
-  display: inline-block;
+  float: left;
+  text-align: center;
+  font-family: sans-serif;
   padding-top: 0.3125rem;
   padding-bottom: 0.3125rem;
-  margin-right: 1rem;
-  font-size: 1.25rem;
+  margin-left: 1rem;
+  font-size: 2rem;
   line-height: inherit;
   white-space: nowrap;
 }
@@ -4503,12 +4509,14 @@ input[type="button"].btn-block {
 }
 
 .navbar-text {
+  color: #343a40;
   display: inline-block;
   padding-top: 0.5rem;
   padding-bottom: 0.5rem;
 }
 
 .navbar-collapse {
+  -webkit-box-orient: horizontal;
   -ms-flex-preferred-size: 100%;
       flex-basis: 100%;
   -webkit-box-flex: 1;
@@ -4529,6 +4537,7 @@ input[type="button"].btn-block {
 }
 
 .navbar-toggler:hover, .navbar-toggler:focus {
+  -webkit-box-orient: horizontal;
   text-decoration: none;
 }
 
@@ -4580,6 +4589,7 @@ input[type="button"].btn-block {
   }
   .navbar-expand-sm .navbar-collapse {
     display: -webkit-box !important;
+    -webkit-box-orient: horizontal;
     display: -ms-flexbox !important;
     display: flex !important;
     -ms-flex-preferred-size: auto;
